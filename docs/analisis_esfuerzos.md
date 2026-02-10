@@ -116,3 +116,37 @@ Responsable de calidad antes de producción.
 **Total deuda técnica máxima a abordar: 152h**
 
 ---
+
+## 3. Estructura de Trabajo Breakdown (WBS)
+
+### FASE 1: DEFINICIÓN Y ENTREGABLES INICIALES
+
+**Duración:** Semana 1 (11-17 febrero 2026)
+**Esfuerzo total:** 300 horas
+
+**NOTA:** Todos los entregables de clase están programados para completarse en la Semana 1.
+
+#### 1.1 Análisis Sistema Actual (120h)
+
+| Actividad | Backend | Frontend | QA/Doc | Total |
+|-----------|---------|----------|--------|-------|
+| Estudio arquitectura y código | 40h | 40h | 40h | 120h |
+
+**Detalle por equipo:**
+
+**Backend/BD (40h):**
+- Análisis arquitectura Express.js: 15h
+- Estudio servicios existentes: 15h
+- Revisión esquema BD (12 tablas + MongoDB): 10h
+
+**Frontend (40h):**
+- Análisis stack (Astro + React + TypeScript): 15h
+- Estudio componentes reutilizables: 15h
+- Mapeo de rutas y guards: 10h
+
+**QA/Documentación (40h):**
+- Mapeo flujos de negocio (7 etapas): 15h
+- Análisis roles y permisos: 15h
+- Documentación sistema actual: 10h
+
+---
