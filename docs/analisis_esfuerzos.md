@@ -56,3 +56,32 @@ Responsable de calidad antes de producción.
 **Candidatos Idóneos:** Ángel Montemayor, Erick Morales, Eder Cantero, Emiliano Delgadillo
 
 ---
+
+## 1. Capacidad del Equipo
+
+### 1.1 Capacidad Semanal
+
+| Rol | Personas | Horas/día | Horas/semana |
+|-----|----------|-----------|--------------|
+| Backend/BD | 3 | 5-6h | 75-90h |
+| Frontend | 3 | 5-6h | 75-90h |
+| QA/Documentación | 3 | 5-6h | 75-90h |
+| Lead (incluye doc) | 1 | 5-6h | 25-30h |
+| **TOTAL** | **10** | - | **250-300h** |
+
+### 1.2 Capacidad Total del Proyecto
+
+- **Capacidad mínima:** 15 semanas × 250h = 3,750 horas
+- **Capacidad máxima:** 15 semanas × 300h = 4,500 horas
+- **Capacidad promedio:** 15 semanas × 275h = **4,125 horas disponibles**
+
+### 1.3 Capacidad Individual por Persona
+
+| Rol | Horas totales (15 semanas) |
+|-----|----------------------------|
+| Backend/BD (c/u) | 375-450h |
+| Frontend (c/u) | 375-450h |
+| QA/Doc (c/u) | 375-450h |
+| Lead | 375-450h |
+
+---
