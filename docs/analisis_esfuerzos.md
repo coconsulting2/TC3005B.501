@@ -419,3 +419,17 @@ Estructura idéntica a módulos anteriores
 - Videos tutoriales: 10-20h
 
 ---
+
+#### 3.4 Flexibilidad de Módulos
+
+Dependiendo de la complejidad real de cada módulo definido con el cliente, se pueden ajustar las combinaciones:
+
+**Opción A:** 3 módulos medianos (900h cada uno) - **RECOMENDADO**
+
+**Opción B:** 2 módulos complejos (1,100h cada uno) + 1 simple (500h)
+
+**Opción C:** 1 complejo (1,200h) + 2 medianos (750h cada uno)
+
+**Opción D:** 4 módulos simples (675h cada uno) - Solo si todos son realmente simples
+
+---
