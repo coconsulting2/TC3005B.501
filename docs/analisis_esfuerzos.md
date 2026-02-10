@@ -515,3 +515,14 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 | **Total Proyecto** | **3,840h** | **100%** | **384h promedio** |
 
 ---
+
+## 5. Análisis de Capacidad vs Planificación
+
+| Concepto | Horas |
+|----------|-------|
+| Capacidad total disponible (15 semanas) | 4,125h |
+| Esfuerzo planificado | 3,840h |
+| Margen/Buffer | 285h |
+| **Porcentaje de utilización** | **93.1%** |
+
+---
