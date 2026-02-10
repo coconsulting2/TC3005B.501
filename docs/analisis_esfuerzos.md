@@ -578,3 +578,26 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 **Semanas 14-15:** Despliegue y Documentación (equipo completo)
 
 ---
+
+## 7. Cronograma de Entregables de Clase
+
+Todos los entregables de clase están programados para la Semana 1 (11-17 febrero 2026):
+
+| Entregable | Esfuerzo | Responsables Principales |
+|------------|----------|--------------------------|
+| Definición: Nombre, Misión, Visión, Valores | 30h | Lead + QA/Doc + Todo (workshop) |
+| Lista de Requerimientos V0.1 | 30h | Lead + Backend + Frontend |
+| Mapa de Arquitectura (Blueprint) | 30h | Backend + Lead + QA/Doc |
+| Plan de Comunicación | 20h | Lead + QA/Doc + Todo |
+| Benthana (Gestión de Riesgos) | 20h | Lead + Todo (workshop) |
+| Historias de Usuario | 20h | Todo el equipo |
+
+**Total Entregables Semana 1: 150h**
+
+Estos entregables se desarrollan en paralelo con:
+- Análisis del sistema actual: 120h
+- Setup del proyecto: 30h
+
+**Total Semana 1: 300h de capacidad disponible**
+
+---
