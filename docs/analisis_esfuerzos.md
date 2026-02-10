@@ -186,3 +186,34 @@ Todos estos entregables deben completarse en la Semana 1:
 **Entregable:** Diagrama de arquitectura del sistema (componentes, capas, tecnologías)
 
 ---
+
+##### 1.2.4 Plan de Comunicación (20h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Definición de stakeholders | Lead | 6h |
+| Estrategia de comunicación | Lead + QA/Doc | 8h |
+| Herramientas y canales | Todo el equipo | 6h |
+
+**Entregable:** Plan de comunicación del proyecto (interno y con cliente)
+
+##### 1.2.5 Benthana (Plan de Riesgos) (20h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Identificación de riesgos | Todo el equipo (workshop) | 8h |
+| Análisis y priorización | Lead | 6h |
+| Planes de mitigación | Lead + Líderes técnicos | 6h |
+
+**Entregable:** Documento de gestión de riesgos del proyecto
+
+##### 1.2.6 Historias de Usuario (20h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Elaboración historias de usuario | Todo el equipo | 15h |
+| Refinamiento y priorización | Lead + Cliente | 5h |
+
+**Entregable:** Documento con historias de usuario en formato estándar
+
+---
