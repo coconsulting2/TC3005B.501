@@ -234,3 +234,43 @@ Todos estos entregables deben completarse en la Semana 1:
 - **Total Semana 1: 300h**
 
 ---
+
+### FASE 2: DEUDA TÉCNICA CRÍTICA
+
+**Duración:** Semanas 2-3
+**Esfuerzo total:** 240 horas
+
+#### 2.1 Backend (90h de 150h disponibles)
+
+| Tarea | Esfuerzo | Detalle |
+|-------|----------|---------|
+| Auth endpoint upload | 20h | Middleware (12h) + Tests (8h) |
+| Servicio Agencia de Viajes | 40h | Lógica mínima (25h) + Integración (15h) |
+| Sesión mock | 15h | Solución producción |
+| Preparación infraestructura | 15h | Setup base para nuevos módulos |
+
+**Total Backend Fase 2: 90h**
+
+#### 2.2 Frontend (70h de 150h disponibles)
+
+| Tarea | Esfuerzo | Detalle |
+|-------|----------|---------|
+| Componentes base reutilizables | 40h | Forms genéricos (20h) + Tablas (20h) |
+| Paginación básica | 30h | Solo vistas críticas |
+
+**Total Frontend Fase 2: 70h**
+
+**Tiempo restante (80h):** Setup estructura para nuevos módulos
+
+#### 2.3 QA/Documentación (80h de 200h disponibles)
+
+| Tarea | Esfuerzo | Detalle |
+|-------|----------|---------|
+| Tests regresión críticos | 40h | Solo flujos que nuevos módulos usarán |
+| Documentación técnica base | 40h | Guía desarrollo (20h) + Estándares (20h) |
+
+**Total QA/Doc Fase 2: 80h**
+
+**Tiempo restante (120h):** Preparación testing para nuevos módulos
+
+---
