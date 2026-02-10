@@ -351,3 +351,30 @@ Todos estos entregables deben completarse en la Semana 1:
 **Total Módulo 1: 900h**
 
 ---
+
+##### Módulo 2 (Semanas 6-9: 900h)
+
+**Estrategia:** Inicio en Semana 6 con overlap parcial
+
+**Semanas 6-7:** Equipo dividido 50/50
+- 50% finalizando Módulo 1
+- 50% iniciando Módulo 2 (Sprint 1)
+
+**Semanas 8-9:** Todo el equipo en Módulo 2 (Sprint 2)
+
+Estructura idéntica a Módulo 1:
+- Sprint 1 - Desarrollo Core: 450h
+- Sprint 2 - Refinamiento: 450h
+
+**Total Módulo 2: 900h**
+
+##### Módulo 3 (Semanas 9-12: 900h)
+
+**Semanas 9-10:** Sprint 1 - Desarrollo Core (450h)
+**Semanas 11-12:** Sprint 2 - Refinamiento (450h)
+
+Estructura idéntica a módulos anteriores
+
+**Total Módulo 3: 900h**
+
+---
