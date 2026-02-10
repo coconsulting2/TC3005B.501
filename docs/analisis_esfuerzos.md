@@ -217,3 +217,20 @@ Todos estos entregables deben completarse en la Semana 1:
 **Entregable:** Documento con historias de usuario en formato estándar
 
 ---
+
+#### 1.3 Setup Proyecto (30h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Ambientes de desarrollo | Backend/BD | 10h |
+| Estructura repositorio para nuevos módulos | Frontend | 8h |
+| Plan de pruebas base | QA | 7h |
+| Plantillas documentación | Lead + QA | 5h |
+
+**Resumen Semana 1:**
+- Análisis sistema actual: 120h
+- Entregables de clase: 150h
+- Setup proyecto: 30h
+- **Total Semana 1: 300h**
+
+---
