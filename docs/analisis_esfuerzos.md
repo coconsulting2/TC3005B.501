@@ -526,3 +526,20 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 | **Porcentaje de utilización** | **93.1%** |
 
 ---
+
+### Distribución del Buffer (285h)
+
+- Imprevistos y bloqueos: 140h (49%)
+- Ajustes por complejidad de módulos: 90h (32%)
+- Tiempo de coordinación adicional: 55h (19%)
+
+### Análisis de Riesgo de Capacidad
+
+**NOTA:** Con 93.1% de utilización, el margen es ajustado pero manejable. Recomendaciones:
+
+1. Definir alcance claro en Semana 1 - No hay espacio para ambigüedades
+2. Priorizar despiadadamente - Si un módulo es más complejo, otro debe simplificarse
+3. Control semanal estricto - Detectar desviaciones temprano
+4. Comunicación constante con cliente - Manejar expectativas desde el inicio
+
+---
