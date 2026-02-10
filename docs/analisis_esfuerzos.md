@@ -329,3 +329,25 @@ Todos estos entregables deben completarse en la Semana 1:
 **Distribución propuesta (ajustable):** 3 módulos de tipo B (medio) = 900h cada uno
 
 ---
+
+##### Módulo 1 (Semanas 4-7: 900h)
+
+**Sprint 1 - Desarrollo Core (Semanas 4-5: 450h)**
+
+| Equipo | Actividades | Horas |
+|--------|-------------|-------|
+| Backend/BD | Diseño modelo de datos y migraciones + Endpoints principales (CRUD) + Lógica de negocio core + Tests unitarios básicos | 150h |
+| Frontend | Componentes principales + Formularios y validaciones + Integración con API + Navegación y rutas | 150h |
+| QA/Doc | Plan de pruebas del módulo + Casos de prueba + Tests exploratorios + Documentación funcional + Manual de usuario borrador | 150h |
+
+**Sprint 2 - Refinamiento y Cierre (Semanas 6-7: 450h)**
+
+| Equipo | Actividades | Horas |
+|--------|-------------|-------|
+| Backend/BD | Endpoints secundarios + Validaciones y manejo de errores + Optimizaciones + Tests de integración | 150h |
+| Frontend | Componentes secundarios + Estados y manejo de errores + Refinamiento UX/UI + Tests de componentes | 150h |
+| QA/Doc | Ejecución de tests completos + Gestión de bugs y regresión + Documentación final + Videos tutoriales | 150h |
+
+**Total Módulo 1: 900h**
+
+---
