@@ -150,3 +150,39 @@ Responsable de calidad antes de producción.
 - Documentación sistema actual: 10h
 
 ---
+
+#### 1.2 Entregables Obligatorios de Clase (150h)
+
+Todos estos entregables deben completarse en la Semana 1:
+
+##### 1.2.1 Definición del Nombre, Misión, Visión y Valores (4h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Investigación y análisis organizacional | Lead + QA/Doc | 1h |
+| Propuesta de identidad corporativa | Todo el equipo (workshop) | 2h |
+| Redacción y refinamiento | Lead | 1h |
+
+**Entregable:** Documento formal con identidad de la Oficina de Planeación de Proyectos
+
+##### 1.2.2 Lista de Requerimientos V0.1 (30h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Levantamiento con cliente | Lead + 1 de cada equipo | 15h |
+| Documentación requerimientos funcionales | Backend + Frontend | 10h |
+| Documentación requerimientos no funcionales | QA/Doc | 5h |
+
+**Entregable:** Documento con lista inicial de requerimientos del sistema
+
+##### 1.2.3 Mapa de Arquitectura (Blueprint) (30h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Análisis arquitectura actual | Backend | 12h |
+| Diseño arquitectura propuesta | Backend + Lead | 10h |
+| Diagramas y documentación | Backend + QA/Doc | 8h |
+
+**Entregable:** Diagrama de arquitectura del sistema (componentes, capas, tecnologías)
+
+---
