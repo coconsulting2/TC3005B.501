@@ -378,3 +378,44 @@ Estructura idéntica a módulos anteriores
 **Total Módulo 3: 900h**
 
 ---
+
+#### 3.3 Desglose Detallado por Sprint (Plantilla)
+
+**Backend/BD - Sprint Core (150h):**
+- Diseño modelo de datos: 30-35h
+- Implementación endpoints CRUD: 60-70h
+- Lógica de negocio: 30-40h
+- Tests unitarios básicos: 10-15h
+
+**Backend/BD - Sprint Refinamiento (150h):**
+- Endpoints adicionales: 45-55h
+- Validaciones y errores: 35-45h
+- Optimizaciones: 25-35h
+- Tests de integración: 25-30h
+
+**Frontend - Sprint Core (150h):**
+- Componentes principales: 70-85h
+- Formularios y validaciones: 40-50h
+- Integración API: 15-25h
+- Rutas y navegación: 5-10h
+
+**Frontend - Sprint Refinamiento (150h):**
+- Componentes secundarios: 55-65h
+- Manejo de estados y errores: 35-45h
+- Refinamiento UX/UI: 30-40h
+- Tests de componentes: 10-20h
+
+**QA/Documentación - Sprint Core (150h):**
+- Plan de pruebas: 20-30h
+- Casos de prueba: 25-35h
+- Tests exploratorios: 35-45h
+- Documentación funcional: 30-40h
+- Manual usuario borrador: 15-25h
+
+**QA/Documentación - Sprint Refinamiento (150h):**
+- Ejecución tests: 55-65h
+- Bugs y regresión: 40-50h
+- Documentación final: 25-35h
+- Videos tutoriales: 10-20h
+
+---
