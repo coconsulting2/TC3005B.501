@@ -433,3 +433,26 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 **Opción D:** 4 módulos simples (675h cada uno) - Solo si todos son realmente simples
 
 ---
+
+### FASE 4: INTEGRACIÓN Y TESTING FINAL
+
+**Duración:** Semana 13
+**Esfuerzo total:** 300 horas
+
+#### 4.1 Testing Integral (200h)
+
+| Equipo | Actividades | Horas |
+|--------|-------------|-------|
+| Backend/BD | Tests de integración entre módulos + Performance testing básico + Validación de integridad de datos | 65h |
+| Frontend | Tests E2E de flujos principales + Cross-browser testing + Pruebas de usabilidad | 65h |
+| QA/Doc | Tests de aceptación de usuario + Regresión completa del sistema + Reporte de bugs críticos | 70h |
+
+#### 4.2 Correcciones Críticas (100h)
+
+| Equipo | Actividades | Horas |
+|--------|-------------|-------|
+| Backend/BD | Fixes de bugs bloqueantes | 35h |
+| Frontend | Fixes de bugs bloqueantes | 35h |
+| QA/Doc | Re-testing y validación | 30h |
+
+---
