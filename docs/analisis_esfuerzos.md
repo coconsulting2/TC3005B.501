@@ -321,3 +321,11 @@ Todos estos entregables deben completarse en la Semana 1:
 **Ejemplos típicos:** Integraciones con sistemas externos, Motores de reglas, Workflows multi-nivel
 
 ---
+
+#### 3.2 Desarrollo de 3 Módulos Principales
+
+**Capacidad disponible:** 9 semanas × 300h = 2,700h
+
+**Distribución propuesta (ajustable):** 3 módulos de tipo B (medio) = 900h cada uno
+
+---
