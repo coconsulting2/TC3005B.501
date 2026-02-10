@@ -274,3 +274,50 @@ Todos estos entregables deben completarse en la Semana 1:
 **Tiempo restante (120h):** Preparación testing para nuevos módulos
 
 ---
+
+### FASE 3: DESARROLLO DE NUEVOS MÓDULOS
+
+**Duración:** Semanas 4-12 (9 semanas)
+**Esfuerzo total:** 2,700 horas
+
+**NOTA:** El alcance específico de cada módulo se definirá con el socio formador, aún no se tiene la fecha. Las estimaciones siguientes son plantillas base que se ajustarán según la complejidad real.
+
+#### 3.1 Tipología de Módulos (Estimaciones Base)
+
+##### Tipo A: Módulo Simple (600-800h total)
+
+**Características:** CRUD básico, sin flujos complejos, pocas validaciones
+
+| Componente | Esfuerzo Estimado |
+|------------|-------------------|
+| Backend/BD | 200-250h |
+| Frontend | 250-300h |
+| QA/Documentación | 150-250h |
+
+**Ejemplos típicos:** Catálogos administrativos, Reportes de consulta, Dashboards informativos
+
+##### Tipo B: Módulo Medio (800-1,000h total)
+
+**Características:** Flujo de trabajo, múltiples validaciones, estados
+
+| Componente | Esfuerzo Estimado |
+|------------|-------------------|
+| Backend/BD | 250-300h |
+| Frontend | 350-400h |
+| QA/Documentación | 200-300h |
+
+**Ejemplos típicos:** Procesos de aprobación, Módulos con workflow, Gestión con reglas de negocio
+
+##### Tipo C: Módulo Complejo (1,000-1,200h total)
+
+**Características:** Integración externa, lógica compleja, múltiples roles
+
+| Componente | Esfuerzo Estimado |
+|------------|-------------------|
+| Backend/BD | 350-400h |
+| Frontend | 400-500h |
+| QA/Documentación | 250-300h |
+
+**Ejemplos típicos:** Integraciones con sistemas externos, Motores de reglas, Workflows multi-nivel
+
+---
