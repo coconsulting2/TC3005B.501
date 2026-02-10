@@ -488,3 +488,18 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 | Transferencia de conocimiento técnico | Líderes técnicos | 20h |
 
 ---
+
+## 4. Resumen de Esfuerzo por Fase
+
+| Fase | Semanas | Backend | Frontend | QA/Doc | Total |
+|------|---------|---------|----------|--------|-------|
+| 1. Onboarding, Definición y Entregables | 1 | 75h | 75h | 150h | 300h |
+| 2. Deuda Técnica Crítica | 2-3 | 90h | 70h | 80h | 240h |
+| 3. Módulo 1 | 4-7 | 300h | 300h | 300h | 900h |
+| 3. Módulo 2 | 6-9 | 300h | 300h | 300h | 900h |
+| 3. Módulo 3 | 9-12 | 300h | 300h | 300h | 900h |
+| 4. Testing e Integración | 13 | 65h | 65h | 170h | 300h |
+| 5. Despliegue y Cierre | 14-15 | 60h | 50h | 190h | 300h |
+| **TOTAL** | **15** | **1,190h** | **1,160h** | **1,490h** | **3,840h** |
+
+---
