@@ -456,3 +456,35 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 | QA/Doc | Re-testing y validación | 30h |
 
 ---
+
+### FASE 5: DESPLIEGUE Y CIERRE
+
+**Duración:** Semanas 14-15
+**Esfuerzo total:** 300 horas
+
+#### 5.1 Preparación para Producción (150h)
+
+| Equipo | Actividades | Horas |
+|--------|-------------|-------|
+| Backend/BD | Scripts de migración de BD + Configuración ambiente producción + Validación de ambientes | 60h |
+| Frontend | Build optimizado + Configuración de deploy + Smoke tests en producción | 50h |
+| QA/Doc | Tests en ambiente de producción + Validación final de funcionalidades | 40h |
+
+#### 5.2 Documentación Final y Entregables (100h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Manual de usuario completo | QA/Doc + Lead | 35h |
+| Manual técnico del sistema | QA/Doc + Lead | 30h |
+| Documento de pruebas | QA/Doc | 20h |
+| Documentación de API | Lead + Backend | 10h |
+| Presentación final del proyecto | Todo el equipo | 5h |
+
+#### 5.3 Capacitación y Transferencia (50h)
+
+| Actividad | Responsable | Horas |
+|-----------|-------------|-------|
+| Sesiones de capacitación a usuarios | Todo el equipo | 30h |
+| Transferencia de conocimiento técnico | Líderes técnicos | 20h |
+
+---
