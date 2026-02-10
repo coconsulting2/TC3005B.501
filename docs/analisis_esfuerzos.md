@@ -543,3 +543,38 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 4. Comunicación constante con cliente - Manejar expectativas desde el inicio
 
 ---
+
+## 6. Timeline de Ejecución con Overlaps
+
+**Semana 1 (11-17 feb):** Onboarding completo + TODOS los entregables de clase
+- Todo el equipo trabajando en paralelo
+- Prioridad: Completar todos los entregables obligatorios
+
+**Semanas 2-3:** Deuda Técnica Crítica (equipo completo)
+
+**Semanas 4-5:** Módulo 1 Sprint 1 (equipo completo al 100%)
+- 3 Backend en Módulo 1
+- 3 Frontend en Módulo 1
+- 4 QA/Doc en Módulo 1 (incluye Lead)
+
+**Semanas 6-7:** Overlap Módulos 1 y 2
+- 50% del equipo: Finalizando Módulo 1 (Sprint 2)
+  - 1.5 Backend
+  - 1.5 Frontend
+  - 2 QA/Doc
+- 50% del equipo: Iniciando Módulo 2 (Sprint 1)
+  - 1.5 Backend
+  - 1.5 Frontend
+  - 2 QA/Doc
+
+**Semanas 8-9:** Módulo 2 completo (equipo completo al 100%)
+
+**Semanas 9-10:** Módulo 3 Sprint 1 (equipo completo)
+
+**Semanas 11-12:** Módulo 3 Sprint 2 (equipo completo)
+
+**Semana 13:** Testing e Integración Final (equipo completo)
+
+**Semanas 14-15:** Despliegue y Documentación (equipo completo)
+
+---
