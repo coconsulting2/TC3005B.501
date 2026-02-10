@@ -85,3 +85,34 @@ Responsable de calidad antes de producción.
 | Lead | 375-450h |
 
 ---
+
+## 2. Estrategia del Proyecto
+
+### 2.1 Prioridades
+
+1. **Máximo esfuerzo:** Deuda técnica
+2. **Mínimo necesario:** MVP a definir
+3. **Entregables obligatorios:** Documentación según asignaciones de equipo
+4. **Soporte continuo:** Testing en paralelo
+
+### 2.2 Deuda Técnica - Clasificación
+
+**Crítica (Debe resolverse - 57h)**
+- Auth endpoint upload: 15h
+- Servicio Agencia de Viajes: 30h
+- Sesión mock: 12h
+
+**Media (Resolver si hay tiempo - 95h)**
+- Logging estructurado: 25h
+- Tests unitarios básicos: 40h
+- Paginación: 30h
+
+**Baja (No prioritaria - diferir)**
+- Departamentos hardcodeados
+- Protección CSRF completa
+- Suite completa de tests
+- Optimizaciones de performance
+
+**Total deuda técnica máxima a abordar: 152h**
+
+---
