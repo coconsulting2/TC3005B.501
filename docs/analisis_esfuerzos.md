@@ -503,3 +503,15 @@ Dependiendo de la complejidad real de cada módulo definido con el cliente, se p
 | **TOTAL** | **15** | **1,190h** | **1,160h** | **1,490h** | **3,840h** |
 
 ---
+
+### Distribución Porcentual por Equipo
+
+| Equipo | Horas Totales | Porcentaje del Total | Horas por Persona |
+|--------|---------------|----------------------|-------------------|
+| Backend/BD | 1,190h | 31.0% | 397h |
+| Frontend | 1,160h | 30.2% | 387h |
+| QA/Documentación | 1,490h | 38.8% | 373h (sin Lead) / 497h (con Lead) |
+| Lead (parte de QA/Doc) | Aprox 120h | Incluido arriba | En coordinación y docs |
+| **Total Proyecto** | **3,840h** | **100%** | **384h promedio** |
+
+---
