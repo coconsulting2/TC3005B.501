@@ -616,3 +616,18 @@ Estos entregables se desarrollan en paralelo con:
 8. **Entregables Semana 1:** Se pueden completar en paralelo con análisis del sistema debido a que se nutren del mismo trabajo
 
 ---
+
+### 8.2 Riesgos que Pueden Afectar el Esfuerzo
+
+| Riesgo | Probabilidad | Impacto en Horas | Mitigación |
+|--------|--------------|------------------|------------|
+| Módulos más complejos de lo esperado | Media-Alta | +150-300h por módulo | Usar buffer, negociar alcance temprano, simplificar funcionalidades |
+| Requerimientos ambiguos o cambiantes | Media | +100-200h | Validación continua, documentación clara, control de cambios |
+| Integraciones externas no contempladas | Media | +150-250h por integración | Identificar en Semana 1, evaluar viabilidad |
+| Bloqueos por dependencias del cliente | Media | +50-100h | Comunicación semanal, decisiones documentadas |
+| Bugs críticos en sistema heredado | Baja-Media | +100-150h | Resolver solo lo bloqueante, documentar workarounds |
+| Ausencias del equipo (enfermedad, etc.) | Baja | Variable | Buffer del 7% ayuda, redistribución de tareas |
+| Dificultades técnicas imprevistas | Media | +80-120h | Investigación temprana, consulta con expertos |
+| Sobrecarga en Semana 1 por entregables | Media | +30-50h | Distribución eficiente, trabajo en paralelo, priorización |
+
+---
