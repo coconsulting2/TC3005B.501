@@ -601,3 +601,18 @@ Estos entregables se desarrollan en paralelo con:
 **Total Semana 1: 300h de capacidad disponible**
 
 ---
+
+## 8. Consideraciones
+
+### 8.1 Supuestos de Estimación
+
+1. **Complejidad de módulos:** Se asume complejidad media (tipo B) para los 3 módulos principales, ajustable según definición con cliente en Semana 1
+2. **Alcance por definir:** Las estimaciones son plantillas que se refinan una vez se conozcan los requerimientos específicos
+3. **Reutilización de código:** Los componentes desarrollados en Módulo 1 pueden acelerar desarrollo de Módulos 2 y 3
+4. **Curva de aprendizaje:** Ya contemplada en la Semana 1 de onboarding
+5. **Disponibilidad del equipo:** Se asume 100% de disponibilidad del equipo durante las 15 semanas
+6. **Deuda técnica mínima:** Solo se aborda lo crítico que podría bloquear nuevos desarrollos
+7. **Sistema base funcional:** Se asume que el sistema heredado funciona y solo requiere mejoras
+8. **Entregables Semana 1:** Se pueden completar en paralelo con análisis del sistema debido a que se nutren del mismo trabajo
+
+---
