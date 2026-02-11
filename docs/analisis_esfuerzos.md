@@ -631,3 +631,35 @@ Estos entregables se desarrollan en paralelo con:
 | Sobrecarga en Semana 1 por entregables | Media | +30-50h | Distribución eficiente, trabajo en paralelo, priorización |
 
 ---
+
+## 9. Recomendaciones
+
+### 9.1 Para Maximizar Efectividad
+
+**Semana 1 es crítica - Validación de complejidad**
+
+Dedicar tiempo suficiente a entender qué quiere el cliente. Si algún módulo es muy complejo (mayor a 1,000h), considerar:
+- Reducir alcance a MVP real
+- Eliminar funcionalidad no esencial
+- Postergar funcionalidades para fase 2
+- Replantear combinación de módulos (2 complejos + 1 simple)
+
+**Establecer ceremonias ágiles ligeras:**
+- Daily standups: 15min diarios (ya incluido en el cálculo)
+- Sprint reviews: cada 2 semanas al finalizar cada sprint
+- Retrospectivas: al final de cada módulo
+- Demo a cliente: al completar cada módulo
+
+**Control semanal de avance:**
+- Tracking de horas reales vs estimadas
+- Identificar desviaciones tempranas
+- Ajustar plan si es necesario
+- Comunicar al cliente cualquier riesgo inmediatamente
+
+**Calidad técnica desde el inicio:**
+- Code reviews obligatorios
+- Tests unitarios en cada desarrollo
+- Documentación inline en código
+- Estándares de código definidos en Semanas 2-3
+
+---
