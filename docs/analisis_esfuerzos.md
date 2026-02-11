@@ -731,3 +731,42 @@ Si al definir los módulos en Semana 1 se detecta que la complejidad total exced
 - 3 módulos reducidos a su mínima expresión
 
 ---
+
+### 9.4 Decisiones Pendientes con Cliente
+
+**Sobre los Módulos:**
+
+1. **¿Cuáles son los 3 módulos prioritarios?**
+   - Nombre y descripción de cada uno (1 párrafo)
+   - Problema que resuelve
+   - Usuarios principales
+
+2. **¿Qué tipo de módulos son?**
+   - ¿CRUD simple o flujo complejo?
+   - ¿Requieren aprobaciones multi-nivel?
+   - ¿Hay cálculos o reglas de negocio complejas?
+   - ¿Necesitan integrarse con sistemas externos?
+
+3. **¿Cuál es el alcance mínimo aceptable (MVP)?**
+   - ¿Qué funcionalidades son "must have"?
+   - ¿Qué puede dejarse para una fase 2?
+   - ¿Hay flexibilidad si un módulo resulta muy complejo?
+
+**Sobre la Operación del Proyecto:**
+
+4. **Comunicación y seguimiento**
+   - ¿Con qué frecuencia quiere demos? (recomendado: quincenal)
+   - ¿Cuál es el canal de comunicación preferido?
+   - ¿Quién es el punto de contacto para decisiones?
+
+5. **Validación y testing**
+   - ¿Habrá usuarios reales para UAT?
+   - ¿Cuándo pueden participar en pruebas?
+   - ¿Qué define que un módulo está "terminado"?
+
+6. **Restricciones y dependencias**
+   - ¿Hay sistemas externos que debamos conocer?
+   - ¿Hay restricciones técnicas (tecnologías, plataformas)?
+   - ¿Hay datos de prueba disponibles?
+
+---
