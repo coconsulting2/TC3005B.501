@@ -795,3 +795,9 @@ Mejora descripciones mitigación
 Validación impactos en horas
 
 ---
+
+Clarificación distribución equipo Semanas 6-7
+Ajuste descripción overlaps Módulo 2 y 3
+Validación coherencia timeline completo
+
+---
