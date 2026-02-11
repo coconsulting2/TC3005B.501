@@ -807,3 +807,9 @@ Validación horas paralelo por equipo
 Corrección descripción actividades
 
 ---
+
+Corrección ortografía general
+Ajuste puntuación
+Unificación terminología
+
+---
