@@ -783,3 +783,9 @@ Corrección alineación tablas
 Validación sumas totales por fase
 
 ---
+
+Revisión distribución horas Backend
+Ajuste estimaciones Frontend
+Validación cálculos QA/Doc
+
+---
