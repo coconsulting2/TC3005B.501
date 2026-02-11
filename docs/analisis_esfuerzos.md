@@ -837,3 +837,9 @@ Ajuste títulos roles
 Corrección abreviaturas
 
 ---
+
+Refinamiento horas documentación
+Ajuste tiempos testing
+Validación total QA/Doc 1,490h
+
+---
