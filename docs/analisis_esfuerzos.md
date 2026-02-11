@@ -708,3 +708,26 @@ Dedicar tiempo suficiente a entender qué quiere el cliente. Si algún módulo e
 - 15h coordinación general
 
 ---
+
+### 9.3 Estrategia de Negociación con Cliente
+
+Si al definir los módulos en Semana 1 se detecta que la complejidad total excede las 2,700h disponibles para desarrollo de módulos:
+
+**Opción 1: Reducir alcance de módulos**
+- Convertir algunos en MVPs más pequeños
+- Posponer funcionalidades no críticas a fase 2
+- Simplificar flujos complejos
+
+**Opción 2: Reducir número de módulos**
+- De 3 módulos a 2 módulos más robustos
+- Priorizar el módulo de mayor valor de negocio
+
+**Opción 3: Posponer deuda técnica no crítica**
+- Si la deuda técnica identificada no bloquea, diferirla
+- Ganar 95h adicionales (deuda técnica media)
+
+**Opción 4: Combinar opciones**
+- 2 módulos completos + 1 módulo ultra-simple
+- 3 módulos reducidos a su mínima expresión
+
+---
