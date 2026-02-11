@@ -831,3 +831,9 @@ Verificación coherencia estimaciones
 Ajuste terminología consistente
 
 ---
+
+Unificación nombres equipos
+Ajuste títulos roles
+Corrección abreviaturas
+
+---
