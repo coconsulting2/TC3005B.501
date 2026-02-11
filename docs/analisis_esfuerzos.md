@@ -825,3 +825,9 @@ Ajuste alineación contenido
 Corrección bordes tablas
 
 ---
+
+Validación referencias cruzadas
+Verificación coherencia estimaciones
+Ajuste terminología consistente
+
+---
