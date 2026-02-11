@@ -843,3 +843,9 @@ Ajuste tiempos testing
 Validación total QA/Doc 1,490h
 
 ---
+
+Mejora claridad estrategias
+Ajuste descripción ceremonias ágiles
+Refinamiento estrategia Semana 1
+
+---
