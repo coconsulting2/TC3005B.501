@@ -849,3 +849,9 @@ Ajuste descripción ceremonias ágiles
 Refinamiento estrategia Semana 1
 
 ---
+
+Validación final 4,125h disponibles
+Confirmación 93.1% utilización
+Verificación buffer 285h
+
+---
