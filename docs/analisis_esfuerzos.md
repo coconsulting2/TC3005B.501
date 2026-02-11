@@ -789,3 +789,9 @@ Ajuste estimaciones Frontend
 Validación cálculos QA/Doc
 
 ---
+
+Ajuste probabilidades riesgos
+Mejora descripciones mitigación
+Validación impactos en horas
+
+---
