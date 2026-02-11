@@ -663,3 +663,48 @@ Dedicar tiempo suficiente a entender qué quiere el cliente. Si algún módulo e
 - Estándares de código definidos en Semanas 2-3
 
 ---
+
+### 9.2 Estrategia para Semana 1
+
+**Distribución de Trabajo:**
+
+**Días 1-2 (Miércoles 11 - Jueves 12):**
+- Reunión inicial con cliente (4h)
+- Inicio análisis sistema actual (todos los equipos)
+- Workshop identidad corporativa (Misión/Visión/Valores)
+
+**Días 3-4 (Viernes 13 - Lunes 16):**
+- Continuación análisis técnico
+- Levantamiento de requerimientos con cliente
+- Inicio de Blueprint de arquitectura
+- Elaboración de Historias de Usuario
+
+**Día 5 (Martes 17):**
+- Cierre de todos los entregables
+- Plan de Comunicación
+- Benthana (Gestión de Riesgos)
+- Setup de proyecto completado
+
+**Trabajo en Paralelo:**
+
+**Backend/BD (75h):**
+- 40h análisis sistema
+- 20h requerimientos + arquitectura
+- 10h setup ambientes
+- 5h workshops
+
+**Frontend (75h):**
+- 40h análisis sistema
+- 20h requerimientos + historias usuario
+- 8h setup repositorio
+- 7h workshops
+
+**QA/Doc (150h con Lead):**
+- 40h análisis sistema
+- 30h todos los documentos de clase
+- 20h levantamiento requerimientos
+- 30h plan comunicación + Benthana
+- 15h historias usuario + workshops
+- 15h coordinación general
+
+---
