@@ -819,3 +819,9 @@ Validación porcentajes distribución
 Confirmación total 3,840h
 
 ---
+
+Unificación ancho columnas
+Ajuste alineación contenido
+Corrección bordes tablas
+
+---
