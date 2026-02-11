@@ -777,3 +777,9 @@ Corrección de formato en encabezados
 Ajuste de numeración de secciones
 
 ---
+
+Ajuste decimales en porcentajes
+Corrección alineación tablas
+Validación sumas totales por fase
+
+---
