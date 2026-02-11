@@ -770,3 +770,10 @@ Si al definir los módulos en Semana 1 se detecta que la complejidad total exced
    - ¿Hay datos de prueba disponibles?
 
 ---
+
+Revisión completa de todas las secciones
+Validación de consistencia entre tablas
+Corrección de formato en encabezados
+Ajuste de numeración de secciones
+
+---
