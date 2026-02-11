@@ -813,3 +813,9 @@ Ajuste puntuación
 Unificación terminología
 
 ---
+
+Verificación suma horas por fase
+Validación porcentajes distribución
+Confirmación total 3,840h
+
+---
